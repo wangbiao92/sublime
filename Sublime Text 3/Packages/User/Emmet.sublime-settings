@@ -1,0 +1,22 @@
+{
+    "syntaxProfiles": {
+            // Enable XHTML dialect for HTML syntax
+            // "html": "xhtml"
+            // 
+            // Write chained CSS abbreviations on single line:
+            // "css": "css_line"
+        "html": "xhtml",
+          // create our own profile for XML
+          "xml": {
+              "tag_case": "upper",
+              "attr_quotes": "single"
+        }
+
+    },
+    "snippets": {
+    "variables": {
+    "lang": "zh-CN",
+    "charset": "utf-8"
+    }
+    }
+}
