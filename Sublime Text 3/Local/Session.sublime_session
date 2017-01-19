@@ -13,17 +13,29 @@
 		"/D/用户目录/我的文档/GitHub/hello"
 	],
 	"last_version": 3126,
-	"last_window_id": 32,
+	"last_window_id": 33,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 575.0,
+		"new_window_height": 565.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"isN",
+						"isNaN()"
+					],
+					[
+						"aq",
+						"aqiData\tDefault"
+					],
+					[
+						"fu",
+						"fun\tFunction"
+					],
 					[
 						"get",
 						"get"
@@ -246,6 +258,22 @@
 				[
 					[
 						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"PC",
+						"Package Control: Install Package"
+					],
+					[
+						"PCI",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pci",
 						"Package Control: Install Package"
 					],
 					[
@@ -297,15 +325,11 @@
 						"Git: Status"
 					],
 					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
 						"",
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 416.0
+				"width": 432.0
 			},
 			"console":
 			{
@@ -325,8 +349,14 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/E/Git/ife/css/task08.css",
+				"/E/Git/ife/task08.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Git/ife/README.md",
+				"/E/Git/Resume/Resume.md",
+				"/E/Git/ife/task13.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 				"/E/Git/ife/task06.html",
 				"/E/Git/ife/css/task06.css",
 				"/E/Git/Resume/dist/css/print.min.css",
@@ -340,7 +370,6 @@
 				"/E/Git/ife/css/task07.css",
 				"/E/Git/ife/task05.html",
 				"/E/Git/ife/test.html",
-				"/E/Git/ife/README.md",
 				"/E/Git/ife/task04.html",
 				"/E/Git/ife/task01.html",
 				"/E/Git/ife/task03.html",
@@ -543,13 +572,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 199.0,
+			"side_bar_width": 162.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 985.0
+		"new_window_width": 1004.0
 	},
 	"windows":
 	[
@@ -558,6 +587,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"isN",
+						"isNaN()"
+					],
+					[
+						"aq",
+						"aqiData\tDefault"
+					],
 					[
 						"fu",
 						"fun\tFunction"
@@ -775,44 +812,6 @@
 			"buffers":
 			[
 				{
-					"file": "/E/Git/ife/README.md",
-					"settings":
-					{
-						"buffer_size": 783,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/Git/Resume/Resume.md",
-					"settings":
-					{
-						"buffer_size": 1232,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n    <meta charset=\"utf-8\" />\n    <title>task08</title>\n    <link rel=\"stylesheet\" href=\"css/task08.css\" />\n</head>\n<body>\n    <div class=\"wrapper clearfix\">\n        <div class=\"col-md-4 col-xs-6\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-4 col-xs-6\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-4 col-xs-12\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-3 col-xs-3\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-6 col-xs-6\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-3 col-xs-3\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-1 col-xs-2\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-1 col-xs-2\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-2 col-xs-8\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-2 col-xs-3\"><div class=\"inner\"></div></div>\n        <div class=\"col-md-6 col-xs-3\"><div class=\"inner\"></div></div>\n    </div>\n</body>\n</html>",
-					"file": "/E/Git/ife/task08.html",
-					"file_size": 1030,
-					"file_write_time": 131281654599900241,
-					"settings":
-					{
-						"buffer_size": 1008,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/Git/ife/css/task08.css",
-					"settings":
-					{
-						"buffer_size": 4021,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
 					"contents": "/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */\nhtml {\n    font-family: sans-serif;\n    line-height: 1.15;\n    -ms-text-size-adjust: 100%;\n    -webkit-text-size-adjust: 100%;\n}\nbody {\n    margin: 0;\n}\narticle,\naside,\nfooter,\nheader,\nnav,\nsection {\n    display: block;\n}\nh1 {\n    font-size: 2em;\n    margin: 0.67em 0;\n}\nfigcaption,\nfigure,\nmain {\n    display: block;\n}\nfigure {\n    margin: 1em 40px;\n}\nhr {\n    box-sizing: content-box;\n    height: 0;\n    overflow: visible;\n}\npre {\n    font-family: monospace, monospace;\n    font-size: 1em;\n}\na {\n    background-color: transparent;\n    -webkit-text-decoration-skip: objects;\n}\na:active,\na:hover {\n    outline-width: 0;\n}\nabbr[title] {\n    border-bottom: none;\n    text-decoration: underline;\n    text-decoration: underline dotted;\n}\nb,\nstrong {\n    font-weight: inherit;\n}\nb,\nstrong {\n    font-weight: bolder;\n}\ncode,\nkbd,\nsamp {\n    font-family: monospace, monospace;\n    font-size: 1em;\n}\ndfn {\n    font-style: italic;\n}\nmark {\n    background-color: #ff0;\n    color: #000;\n}\nsmall {\n    font-size: 80%;\n}\nsub,\nsup {\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n    vertical-align: baseline;\n}\n\nsub {\n    bottom: -0.25em;\n}\n\nsup {\n    top: -0.5em;\n}\naudio,\nvideo {\n    display: inline-block;\n}\naudio:not([controls]) {\n    display: none;\n    height: 0;\n}\nimg {\n    border-style: none;\n}\nsvg:not(:root) {\n    overflow: hidden;\n}\nbutton,\ninput,\noptgroup,\nselect,\ntextarea {\n    font-family: sans-serif;\n    font-size: 100%;\n    line-height: 1.15;\n    margin: 0;\n}\nbutton,\ninput {\n    overflow: visible;\n}\nbutton,\nselect {\n    text-transform: none;\n}\nbutton,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n    -webkit-appearance: button;\n}\nbutton::-moz-focus-inner,\n[type=\"button\"]::-moz-focus-inner,\n[type=\"reset\"]::-moz-focus-inner,\n[type=\"submit\"]::-moz-focus-inner {\n    border-style: none;\n    padding: 0;\n}\nbutton:-moz-focusring,\n[type=\"button\"]:-moz-focusring,\n[type=\"reset\"]:-moz-focusring,\n[type=\"submit\"]:-moz-focusring {\n    outline: 1px dotted ButtonText;\n}\nfieldset {\n    border: 1px solid #c0c0c0;\n    margin: 0 2px;\n    padding: 0.35em 0.625em 0.75em;\n}\nlegend {\n    box-sizing: border-box;\n    color: inherit;\n    display: table;\n    max-width: 100%;\n    padding: 0;\n    white-space: normal;\n}\nprogress {\n    display: inline-block;\n    vertical-align: baseline;\n}\ntextarea {\n    overflow: auto;\n}\n[type=\"checkbox\"],\n[type=\"radio\"] {\n    box-sizing: border-box;\n    padding: 0;\n}\n[type=\"number\"]::-webkit-inner-spin-button,\n[type=\"number\"]::-webkit-outer-spin-button {\n    height: auto;\n}\n[type=\"search\"] {\n    -webkit-appearance: textfield;\n    outline-offset: -2px;\n}\n[type=\"search\"]::-webkit-search-cancel-button,\n[type=\"search\"]::-webkit-search-decoration {\n    -webkit-appearance: none;\n}\n::-webkit-file-upload-button {\n    -webkit-appearance: button;\n    font: inherit;\n}\ndetails,\nmenu {\n    display: block;\n}\nsummary {\n    display: list-item;\n}\ncanvas {\n    display: inline-block;\n}\ntemplate {\n    display: none;\n}\n[hidden] {\n    display: none;\n}\n/* ----------------------------------- layout ----------------------------------- */\nhr,\nh3 {\n    margin: 0;\n    padding: 0;\n}\nhtml {\n    background-color: #555353;\n}\n.clearfix:after {\n    content: \"\";\n    display: block;\n    clear: both;\n}\n.wrap {\n    width: 892px;\n    height: 1386px;\n    padding: 0 44px;\n    margin: 80px auto;\n    background-color: #FFFFFF;\n}\nheader {\n    position: relative;\n    font: 12px \"SimHei\";\n}\nheader .block {\n    width: 110px;\n    height: 61px;\n    background-color: #D45161;\n}\nheader .address {\n    position: absolute;\n    color: #ffffff;\n    bottom: 5px;\n    left: 5px;\n}\nheader .time{\n    position: absolute;\n    right: 0;\n    bottom: 5px;\n    color: #d45d5c;\n}\nheader .header-hr {\n    margin-bottom: 40px;\n    border: 0;/* 去掉一条阴影线 */\n    border-bottom: 2px solid #938e8c;\n}\n.partone {\n    position: relative;\n}\n.imgone {\n    position: relative;\n    float: left;\n    margin-right: 48px;\n}\n.imgone .img_l {\n    width: 192px;\n    height: 301px;\n    position: absolute;\n    top: 0;\n    left: 0;\n    background-color: #165D16;\n    opacity: 0.4;\n    filter:Alpha(opacity=40); /* IE8 以及更早的浏览器 */\n}\n.imgone .img_r {\n    width: 192px;\n    height: 301px;\n    position: absolute;\n    top:0;\n    right: 0;\n    background-color: #A31B36;\n    opacity: 0.4;\n    filter:Alpha(opacity=40); /* IE8 以及更早的浏览器 */\n}\n.partone .title {\n    font: 24px/40px \"Microsoft Yahei\";\n    color: #000000;\n    text-decoration: underline;\n}\n.partone .txt {\n    display: inline-block;\n    width: 203px;\n    font: italic 12px/10px \"KaiTi\";\n    color: #676767;\n}\n.partone .number_one {\n    display: inline-block;\n    margin-top: 10px;\n    width: 203px;\n    font: italic 116px \"Microsoft Yahei\";\n    color: #75b86b;\n}\n.partone .number_two {\n    position: absolute;\n    bottom: 0;\n    font: 55px \"Microsoft Yahei\";\n    color: #cc8091;\n}\n.partone .txt_t {\n    position: absolute;\n    right: 95.27px;\n    bottom: 21px;\n    font: 21px \"Microsoft Yahei\";\n    color: #cc8091;\n}\n\n.partone .txt_b {\n    position: absolute;\n    right: 44.7px;\n    bottom: 8px;\n    font: 12px \"Microsoft Yahei\";\n    color: #cc8091;\n}\n.parttwo {\n    margin: 40px 0;\n    width: 641px;\n}\n.parttwo .left {\n    width: 36%;\n    float: left;\n    margin-right: 30px;\n}\n.parttwo .left span {\n    font: 16px \"Microsoft Yahei\";\n    font-weight: bold;\n    text-decoration: underline;\n    color: #418c59;\n}\n.parttwo .left p {\n    font: 12px \"SimSun\";\n    line-height: 16px;\n    color: #767777;\n}\n.parttwo .mid {\n    width: 33%;\n    float: left;\n    margin-right: 30px;\n}\n.parttwo .mid span {\n    font: 16px \"Microsoft Yahei\";\n    font-weight: bold;\n    text-decoration: underline;\n    color: #d2994f;\n}\n.parttwo .mid p {\n    font: 12px \"Microsoft Yahei\";\n    line-height: 16px;\n    color: #231815;\n    opacity: 0.7;\n}\n.parttwo .right {\n    width: 20%;\n    float: right;\n}\n.parttwo .right .title {\n    font: 16px \"Microsoft Yahei\";\n    font-weight: bold;\n    text-decoration: underline;\n    color: #cc7680;\n}\n.parttwo .right p {\n    margin-bottom: 25px;\n    font: 12px/20px \"Microsoft Yahei\";\n    color: #231815;\n    opacity: 0.7;\n}\n.parttwo .right .word {\n    font: 12px/16px \"Microsoft Yahei\";\n    color: #231815;\n}\n.parttwo .right .number {\n    font: italic 12px/16px \"Microsoft Yahei\";\n    color: #cd4a48;\n    opacity: 0.7;\n}\n.partthree {\n    width: 892px;\n    margin-top: 40px; \n}\n.partthree .left {\n    float: left;\n    width: 415px;\n}\n.partthree .left .title span {\n    margin-right: 20px;\n    font: italic 72px \"SimHei\";\n    font-weight: bold;\n    color: #f5e327;\n}\n.partthree .left .title {\n    margin: 0 0 10px 0;\n    font: 42px \"SimHei\";\n    font-weight: bold;\n    color: #11456b;\n}\n.partthree .left hr {\n    width: 415px;\n    margin-bottom: 20px;\n    border: 0;\n    border-bottom: 2px solid #11456b;\n}\n.left .contentone .mark {\n    display: inline-block;\n    float: left;\n    margin-right: 4px;\n    font-size: 70px;\n    font-family: \"Microsoft Yahei\";\n    color: #f5e327;\n}\n.left .contentone p {\n    margin-top: 0;\n    margin-bottom: 0;\n    font-size: 12px;\n    font-family: \"SimSun\";\n    line-height: 16px;\n    color: #767777;\n}\n.left .contenttwo img {\n    float: right;\n    top: 0;\n    right: 0;\n    margin: 10px 0 10px 10px;\n}\n.left .contenttwo p {\n    margin-top: 0;\n    margin-bottom: 0;\n    font-size: 12px;\n    font-family: \"SimSun\";\n    line-height: 16px;\n    color: #767777;\n    text-indent: 2em;\n}\n.partthree .right {\n    width: 458px;\n    float: right;\n}\n.partthree .right .top {\n    position: relative;\n    height: 257px;\n}\n.partthree .right .top .cover {\n    position: absolute;\n    bottom: 0;\n    width: 458px;\n    height: 61px;\n    background-color: #000000;\n    opacity: 0.3;\n}\n.partthree .right .top .vertical {\n    border-left: 3px solid #72b16a;\n    height: 44px;\n    position: absolute;\n    bottom: 8.5px;\n    left: 30px;\n}\n.partthree .right .top .mark1 {\n    position: absolute;\n    bottom: 17.5px;\n    left: 45px;\n    font-size: 26px;\n    font-family: \"Microsoft Yahei\";\n    color: #ffffff;\n}\n.partthree .right .top .mark2 {\n    position: absolute;\n    bottom: 17.5px;\n    left: 160px;\n    font-size: 12px;\n    font-family: \"Microsoft Yahei\";\n    letter-spacing: 140%;\n    font-style: italic;\n    color: #72b16a;\n}\n.partthree .right .down {\n    margin-top: 40px;\n    background-color: #F2E6E6;\n    padding-top: 15px;\n}\n.partthree .right .down .content {\n    width: 316px;\n    margin-left: 30px;\n}\n.right .down .content .triangle {\n    display: inline-block;\n    width: 0;\n    height: 0;\n    border-left: 5px solid transparent;\n    border-right: 5px solid transparent;\n    border-bottom: 10px solid #3338EA;\n}\n.right .down .content .front {\n    display: inline-block;\n    margin-left: 10px;\n    margin-top: 20px;\n    font-size: 16px;\n    font-family: \"SimSun\";\n    color: #5a5b5b;\n}\n.right .down .content .after {\n    font-size: 12px;\n    font-family: \"Microsoft Yahei\";\n    font-style: italic;\n    color: #5a5b5b;\n}\n.right .down .block {\n    position: relative;\n    float: left;\n    margin-top: 40px;\n    width: 260px;\n    height: 160px;\n    background-color: #CD6969;\n}\n.right .down .block .mark1 {\n    display: inline-block;\n    margin-top: 20px;\n    margin-left: 10px;\n    font-size: 110px;\n    color: #ffffff;\n    font-family: \"Microsoft Yahei\";\n}\n.right .down .block .vertical {\n    position: absolute;\n    left: 80px;\n    bottom: 33px;\n    border-left: 2px solid #ffffff;\n    height: 86px;\n}\n.right .down .block .mark2 {\n    position: absolute;\n    left: 90px;\n    bottom: 53px;\n    font: italic 21px/24px \"SimHei\";\n    color: #ffffff;\n}\n.right .down .block .mark3 {\n    position: absolute;\n    left: 90px;\n    bottom: 30px;\n    font: 12px/10px \"SimHei\";\n    color: #ffffff;\n}\n.right .down .article {\n    width: 180px;\n    height: 160px;\n    float: right;\n    margin-top: 30px;\n}\n.right .down .article span {\n    font: 72px \"SimHei\";\n    color: #d45d5c;\n}\n.right .down .article .symbol1 {\n    float: left;\n    height: 30px;\n    margin: 10px 0 0 -30px;\n}\n.right .down .article .symbol2 {\n    float: right;\n    height: 30px;\n    margin: -20px 20px 0 0;\n}\n.right .down .article .text {\n    font: italic 14PX/16PX \"SimHei\";\n    margin-top: 30px;\n    margin-bottom: 0;\n}\nfooter {\n    border-top: 1px solid #938e8c;\n    width: 892px;\n    margin-top: 40px;\n}\nfooter .url {\n    float: right;\n    font: 12px \"SimHei\";\n    color: #d45d5c;\n}",
 					"file": "/E/Git/ife/css/task06.css",
 					"file_size": 11017,
@@ -827,28 +826,29 @@
 					"file": "/E/Git/ife/task14.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 800,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "Package Control Messages\n========================\n\nMarkdown Preview\n----------------\n\n  Sublime Text 2/3 Markdown Preview\n  =================================\n  \n  Preview and build your markdown files quickly in your web browser from sublime text 2/3. \n  \n  You can use builtin [python-markdown][10] parser or use the [github markdown API][5] for the conversion.\n  \n  **NOTE:** If you choose the GitHub API for conversion (set parser: github in your settings), your code will be sent through https to github for live conversion. You'll have [Github flavored markdown][6], syntax highlighting and EMOJI support for free :heart: :octocat: :gift:. If you make more than 60 calls a day, be sure to set your GitHub API key in the settings :). You can also get most of this in the default Markdown parser with by enabling certain extensions; see \"[Parsing Github Flavored Markdown](#parsing-github-flavored-markdown-)\"\" below for more information.\n  \n  **LINUX users:** If you want to use GitHub API for conversion, you'll need to have a custom Python install that includes python-ssl as its not built in the Sublime Text 2 Linux package. see [@dusteye comment][8]. If you use a custom window manager, also be sure to set a `BROWSER` environment variable. see [@PPvG comments][9]\n  \n  ## Features :\n  \n   - Markdown preview using the [Python-markdown][10] or the Github API just choose select the build commands.\n   - Syntax highlighting via Pygments. See \"[Configuring Pygments](#configuring-pygments)\" for more info.\n   - Build markdown file using Sublime Text build system. The build parser are config via the `\"parser\"` config.\n   - Browser preview auto reload on save if you have the [ST2 LiveReload plugin][7] installed.\n   - Builtin parser : supports `abbr`, `attr_list`, `def_list`, `fenced_code`, `footnotes`, `tables`, `smart_strong`, `smarty`,  `wikilinks`, `meta`, `sane_lists`, `codehilite`, `nl2br`, and `toc` markdown extensions.\n   - CSS search path for local and build-in CSS files (always enabled) and/or CSS overriding if you need\n   - YAML support thanks to @tommi\n   - Clipboard selection and copy to clipboard thanks to @hexatrope\n   - MathJax support : \\\\\\\\(\\frac{\\pi}{2}\\\\\\\\) thanks to @bps10\n   - HTML template customisation thanks to @hozaka\n   - Embed images as base64 (see [settings][settings] file for more info)\n   - Strip out multimarkdown critic marks from either Githubs or Python Markdown input source (see [settings][settings] file for more info)\n   - 3rd party extensions for the Python Markdown parser:\n  \n      | Extension | Documentation |\n      |-----------|---------------|\n      | magiclink | Find and convert HTML links and email address to links ([MagicLink Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/magiclink/)). |\n      | delete | Surround inline text with `~~strike through~~` to get del tags ~~strike through~~. |\n      | insert | Surround inline text with `^^underlined^^` to get ins tags <ins>underlined</ins>. |\n      | tasklist | Github Flavored Markdown tasklists ([Tasklist Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/tasklist/)). |\n      | githubemoji | Support for Github Flavored Markdown emojis ([GithubEmoji Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/githubemoji/)). |\n      | headeranchor | Github Flavored Markdown style header anchors ([HeaderAnchor Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/headeranchor/)). |\n      | github | A convenience extension to add: `magiclink`, `delete`, `tasklist`, `githubemoji`, `headeranchor`, `superfences`, and `nl2br` to parse and display Markdown in a github-ish way.  It is recommed to pair `github` with `extra` and `codehilite` (with language guessing off) to parse close to github's way.  Be aware of what extensions `github` loads, because you should not load extensions more than once. |\n      | progressbar | Create progress bars ([ProgressBar Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/progressbar/)). |\n      | superfences | Allow fenced blocks to be nested under lists, blockquotes, etc. and add special UML diagram blocks ([SuperFences Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/superfences/)). |\n  \n  ## Installation :\n  \n  ### Using [Package Control][3] (*Recommended*)\n  \n  For all Sublime Text 2/3 users we recommend install via [Package Control][3].\n  \n  1. [Install][11] Package Control if you haven't yet.\n  2. Use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then `Package Control: Install Package`\n  3. Look for `Markdown Preview` and install it.\n  \n  ### Manual Install\n  \n  1. Click the `Preferences > Browse Packages…` menu\n  2. Browse up a folder and then into the `Installed Packages/` folder\n  3. Download [zip package][12] rename it to `Markdown Preview.sublime-package` and copy it into the `Installed Packages/` directory\n  4. Restart Sublime Text\n  \n  ## Usage :\n  \n  ### To preview :\n  \n   - optionally select some of your markdown for conversion\n   - use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then `Markdown Preview` to show the follow commands (you will be prompted to select which parser you prefer):\n    - Markdown Preview: Preview in Browser\n    - Markdown Preview: Export HTML in Sublime Text\n    - Markdown Preview: Copy to Clipboard\n    - Markdown Preview: Open Markdown Cheat sheet\n   - or bind some key in your user key binding, using a line like this one:\n     `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview\", \"args\": {\"target\": \"browser\", \"parser\":\"markdown\"} },` for a specific parser and target or `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview_select\", \"args\": {\"target\": \"browser\"} },` to bring up the quick panel to select enabled parsers for a given target.\n   - once converted a first time, the output HTML will be updated on each file save (with LiveReload plugin)\n  \n  ### Enabling Other External Markdown Parsers :\n  \n  External parser commands and arguments should first be mapped to a name.  The path to the binary should be first, followed by flags etc.\n  \n  ```js\n      \"markdown_binary_map\": {\n          \"multimarkdown\": [\"/usr/local/bin/multimarkdown\"]\n      },\n  ```\n  \n  Then the name can be placed in `enabled_parsers` to enable use of the new parser.\n  \n  ```js\n      \"enabled_parsers\": [\"markdown\", \"github\", \"multimarkdown\"],\n  ```\n  \n  ### To build :\n  \n   - Just use <kbd>ctrl</kbd>+<kbd>B</kbd> (Windows/Linux) or <kbd>cmd</kbd>+<kbd>B</kbd> (Mac) to build current file.\n  \n  ### To config :\n  \n  Using Sublime Text menu: `Preferences`->`Package Settings`->`Markdown Preview`\n  \n  - `Settings - User` is where you change your settings for Markdown Preview.\n  - `Settings - Default` is a good reference with detailed descriptions for each setting.\n  \n  ### Configuring Pygments\n  If you add the codehilite extension manually in the enabled extensions, you can override some of the default settings.\n  \n  * Turn language guessing *on* or *off* (*on* will highlight fenced blocks even if you don't specify a language)  `codehilite(guess_lang=False)` (True|False).\n  * Show line numbers: `codehilite(linenums=True)` (True|False).\n  * Change the higlight theme: `codehilite(pygments_style=emacs)`.\n  * Inline the CSS: `codehilite(noclasses=True)` (True|False).\n  * Use multiple: `codehilite(linenums=True, pygments_style-emacs)`.\n  \n  See [codehilte page](https://pythonhosted.org/Markdown/extensions/code_hilite.html) for more info.\n  \n  ### Meta Data Support\n  When the `meta` extension is enabled (https://pythonhosted.org/Markdown/extensions/meta_data.html), the results will be written to the HTML head in the form `<meta name=\"key\" content=\"value1,value2\">`.  `title` is the one exception, and its content will be written to the title tag in the HTML head.\n  \n  ### YAML Frontmatter Support\n  YAML frontmatter can be stripped out and read when `strip_yaml_front_matter` is set to  `true` in the settings file.  In general the, the fronmatter is handled the same as [meta data](#meta-data-support), but if both exist in a file, the YAML keys will override the `meta` extension keys.  There are a few special keys names that won't be handled as html meta data.\n  \n  #### Special YAML Key Names\n  Yaml frontmatter has a few special key names that are used that will not be handled as meta data:\n  \n  - **basepath**: An absolute path to configure the relative paths for images etc. (for when the markdown is supposed to reference images in a different location.)\n  - **references**: Can take a file path or an array of file paths for separate markdown files containing references, footnotes, etc.  Can be an absolute path or relative path.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **destination**: This is an absolute file path or relative file path for when the markdown is saved to html via the build command or the `Save to HTML` command.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **settings**: This is a dictionary where you can override settings that are in the settings file.\n  \n  #### Example\n  ```yaml\n  ---\n      # Builtin values\n      references:\n          - references.md\n          - abbreviations.md\n          - footnotes.md\n  \n      destination: destination.html\n  \n      # Meta Data\n      title: Test Page\n      author:\n          - John Doe\n          - Jane Doe\n  \n      # Settings overrides\n      settings:\n          enabled_extensions:\n          - extra\n          - github\n          - toc\n          - headerid\n          - smarty(smart_quotes=False) # smart quotes interferes with attr_list\n          - meta\n          - wikilinks\n          - admonition\n          - codehilite(guess_lang=False,pygments_style=github)\n  ---\n  ```\n  \n  ### Parsing Github Flavored Markdown :\n  Github Flavored Mardown (GFM) is a very popular markdown.  Markdown Preview can actually handle them in a couple of ways: online and offline.\n  \n  #### Online :\n  Parsing GFM using the online method requires using the Github API as the parser.  It may also require setting `github_mode` to `gfm` to get things like tasklists to render properly. You can set your API key in the settings as follows:\n  \n  ```js\n      \"github_oauth_token\": \"secret\"\n  ```\n  \n  #### Offline :\n  By default almost all extensions are enabled to help with the github feel, but there are some tweaks needed to get the full experience.\n  \n  GFM does not auto guess language in fenced blocks, but Markdown Preview does this by default.  You can fix this in one of two ways:\n  \n  1. Disable auto language guessing in the settings file `\"guess_language\": false,`\n  2. Or if you are manually defining extensions: `\"enabled_extensions\": [\"codehilite(guess_lang=False,pygments_style=github)\"]`\n  \n  \n  As mentioned earlier, almost all extensions are enabled by default, but as a reference, the minimum extensions that should be enabled are listed below:\n  \n  ```javascript\n    \"enabled_extensions\": [\n        \"extra\",\n        \"github\",\n        \"codehilite(guess_lang=False,pygments_style=github)\"\n    ]\n  ```\n  \n  This may be further enhanced in the future.\n  \n  \n  ## Support :\n  \n  - Any bugs about Markdown Preview please feel free to report [here][issue].\n  - And you are welcome to fork and submit pullrequests.\n  \n  \n  ## License :\n  \n  The code is available at github [project][home] under [MIT licence][4].\n  \n   [home]: https://github.com/revolunet/sublimetext-markdown-preview\n   [3]: https://packagecontrol.io/\n   [4]: http://revolunet.mit-license.org\n   [5]: https://developer.github.com/v3/markdown/\n   [6]: https://help.github.com/articles/github-flavored-markdown/\n   [7]: https://github.com/dz0ny/LiveReload-sublimetext2\n   [8]: https://github.com/revolunet/sublimetext-markdown-preview/issues/27#issuecomment-11772098\n   [9]: https://github.com/revolunet/sublimetext-markdown-preview/issues/78#issuecomment-15644727\n   [10]: https://github.com/waylan/Python-Markdown\n   [11]: https://packagecontrol.io/installation\n   [12]: https://github.com/revolunet/sublimetext-markdown-preview/archive/master.zip\n   [issue]: https://github.com/revolunet/sublimetext-markdown-preview/issues\n   [settings]: https://github.com/revolunet/sublimetext-markdown-preview/blob/master/MarkdownPreview.sublime-settings\n",
+					"file": "/E/Git/ife/task13.html",
 					"settings":
 					{
-						"buffer_size": 12408,
+						"buffer_size": 1175,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n  \n    ____        _     _ _                _     _       _\n   / ___| _   _| |__ | (_)_ __ ___   ___| |   (_)_ __ | |_ ___ _ __\n   \\___ \\| | | | '_ \\| | | '_ ` _ \\ / _ \\ |   | | '_ \\| __/ _ \\ '__|\n    ___) | |_| | |_) | | | | | | | |  __/ |___| | | | | ||  __/ |\n   |____/ \\__,_|_.__/|_|_|_| |_| |_|\\___|_____|_|_| |_|\\__\\___|_|\n  \n  \n  Welcome to SublimeLinter, a linter framework for Sublime Text 3.\n  \n                   * * * IMPORTANT! * * *\n  \n          SublimeLinter 3 is NOT a drop-in replacement for\n          earlier versions.\n  \n          Linters *NOT* included with SublimeLinter 3, \n          they must be installed separately.\n  \n          The settings are different.\n  \n                  * * * READ THE DOCS! * * *\n  \n  Otherwise you will never know how to install linters, nor will\n  you know about all of the great new features in SublimeLinter 3.\n  \n  For complete documentation on how to install and use SublimeLinter,\n  please see:\n  \n  http://www.sublimelinter.com\n  \n  \n                   _   _      _       _\n                  | | | | ___| |_ __ | |\n                  | |_| |/ _ \\ | '_ \\| |\n                  |  _  |  __/ | |_) |_|\n                  |_| |_|\\___|_| .__/(_)\n                               |_|\n  \n  \n  Hundreds of hours have been spent writing and documenting SublimeLinter\n  to make it the best it can be — easy to use, easy to configure,\n  easy to update, easy to extend. If you use SublimeLinter and feel\n  it is making your coding life better and easier, please consider\n  making a donation to help fund development and support.\n  \n  To donate: https://github.com/SublimeLinter/SublimeLinter3#share-the-love\n  \n  Thank you!\n",
+					"settings":
+					{
+						"buffer_size": 1745,
 						"line_ending": "Windows",
 						"name": "Package Control Messages",
 						"read_only": true,
 						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 222,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
 					}
 				}
 			],
@@ -860,20 +860,32 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "ma",
+				"last_filter": "pci",
 				"selected_items":
 				[
-					[
-						"ma",
-						"Markdown Preview: Preview in Browser"
-					],
 					[
 						"pci",
 						"Package Control: Install Package"
 					],
 					[
+						"javsc",
+						"Set Syntax: JavaScript"
+					],
+					[
 						"Package Control: ",
-						"Package Control: Remove Package"
+						"Package Control: List Packages"
+					],
+					[
+						"PC",
+						"Package Control: Install Package"
+					],
+					[
+						"PCI",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"pc",
@@ -928,7 +940,7 @@
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 400.0
+				"width": 416.0
 			},
 			"console":
 			{
@@ -949,17 +961,17 @@
 			"expanded_folders":
 			[
 				"/E/Git",
-				"/E/Git/ife/css",
-				"/E/Git/Resume",
-				"/E/Git/Resume/dist",
-				"/E/Git/Resume/dist/css",
-				"/E/Git/Resume/font"
+				"/E/Git/ife"
 			],
 			"file_history":
 			[
-				"/E/Git/ife/task13.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Git/ife/css/task08.css",
+				"/E/Git/ife/task08.html",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Git/ife/README.md",
+				"/E/Git/Resume/Resume.md",
+				"/E/Git/ife/task13.html",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 				"/E/Git/ife/task06.html",
 				"/E/Git/ife/css/task06.css",
@@ -974,7 +986,6 @@
 				"/E/Git/ife/css/task07.css",
 				"/E/Git/ife/task05.html",
 				"/E/Git/ife/test.html",
-				"/E/Git/ife/README.md",
 				"/E/Git/ife/task04.html",
 				"/E/Git/ife/task01.html",
 				"/E/Git/ife/task03.html",
@@ -1137,127 +1148,6 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/E/Git/ife/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 783,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										783,
-										783
-									]
-								],
-								"settings":
-								{
-									"parser": "markdown",
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-									"target": "browser"
-								},
-								"translation.x": 0.0,
-								"translation.y": 117.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/Git/Resume/Resume.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1232,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										106,
-										106
-									]
-								],
-								"settings":
-								{
-									"parser": "markdown",
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-									"target": "disk"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/Git/ife/task08.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1008,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										981,
-										981
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"open_with_edit": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/Git/ife/css/task08.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4021,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										347,
-										347
-									]
-								],
-								"settings":
-								{
-									"open_with_edit": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
 							"file": "/E/Git/ife/css/task06.css",
 							"semi_transient": false,
 							"settings":
@@ -1269,8 +1159,8 @@
 								"selection":
 								[
 									[
-										3196,
-										3196
+										3690,
+										3690
 									]
 								],
 								"settings":
@@ -1280,55 +1170,87 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2379.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/Git/ife/task14.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"open_with_edit": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2886.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 1,
+							"file": "/E/Git/ife/task14.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12408,
+								"buffer_size": 800,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										12408,
-										12408
+										722,
+										722
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 195.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/Git/ife/task13.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										648,
+										648
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 117.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1745,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1745,
+										1745
 									]
 								],
 								"settings":
@@ -1340,40 +1262,10 @@
 									"word_wrap": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 351.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 222,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										200,
-										200
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -1419,7 +1311,7 @@
 				"height": 100.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,705,494,82,1314",
+			"position": "0,0,1,-1,-1,-1,-1,666,338,47,1358",
 			"project": "",
 			"replace":
 			{

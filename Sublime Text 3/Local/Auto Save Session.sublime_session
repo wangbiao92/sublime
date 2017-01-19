@@ -1,0 +1,1586 @@
+{
+	"folder_history":
+	[
+		"/E/Git",
+		"/E/",
+		"/E/web",
+		"/E/test",
+		"/E/Git/ife",
+		"/D/用户目录/我的文档/GitHub/baidu",
+		"/D/用户目录/我的文档/GitHub/ife/css",
+		"/D/用户目录/我的文档/GitHub/ife",
+		"/D/用户目录/我的文档/GitHub/Baidu_ife",
+		"/D/用户目录/我的文档/GitHub/hello"
+	],
+	"last_version": 3126,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 565.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"isN",
+						"isNaN()"
+					],
+					[
+						"aq",
+						"aqiData\tDefault"
+					],
+					[
+						"fu",
+						"fun\tFunction"
+					],
+					[
+						"get",
+						"get"
+					],
+					[
+						"back",
+						"backgroundColor〔variable〕"
+					],
+					[
+						"bc",
+						"borderColor〔variable〕"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"font",
+						"font"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"tet",
+						"text-align"
+					],
+					[
+						"fons",
+						"font-style"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"txta",
+						"text-align"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"aft",
+						"after"
+					],
+					[
+						"f",
+						"front"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"cl",
+						"clearfix"
+					],
+					[
+						"ind",
+						"text-indent"
+					],
+					[
+						"part",
+						"partone"
+					],
+					[
+						"S",
+						"SimSun"
+					],
+					[
+						"inle",
+						"inline-block"
+					],
+					[
+						"o",
+						"opacity"
+					],
+					[
+						"clo",
+						"color"
+					],
+					[
+						"fontsy",
+						"font-style"
+					],
+					[
+						"txt",
+						"text-decoration"
+					],
+					[
+						"b",
+						"inline-block"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"tas",
+						"task06-2"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"marr",
+						"margin-right"
+					],
+					[
+						"bore",
+						"border"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"c",
+						"color"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"lists",
+						"list-style-type"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"mag",
+						"margin-left"
+					],
+					[
+						"bacl",
+						"background-color"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"WID",
+						"width"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"pos",
+						"position"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"PC",
+						"Package Control: Install Package"
+					],
+					[
+						"PCI",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git remo",
+						"Git: Track Remote Branch"
+					],
+					[
+						"git lo",
+						"Git: Log All"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git rem",
+						"Git: Track Remote Branch"
+					],
+					[
+						"gitc",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Log All"
+					],
+					[
+						"gits",
+						"Git: Stash List"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Git/ife/css/task08.css",
+				"/E/Git/ife/task08.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Git/ife/README.md",
+				"/E/Git/Resume/Resume.md",
+				"/E/Git/ife/task13.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/E/Git/ife/task06.html",
+				"/E/Git/ife/css/task06.css",
+				"/E/Git/Resume/dist/css/print.min.css",
+				"/E/Git/Resume/print.html",
+				"/E/Git/ife/css/task05.css",
+				"/E/Git/ife/task02.html",
+				"/E/Git/ife/css/task02.css",
+				"/E/Git/ife/css/task03.css",
+				"/E/Git/ife/css/task04.css",
+				"/E/Git/ife/css/normalize.css",
+				"/E/Git/ife/css/task07.css",
+				"/E/Git/ife/task05.html",
+				"/E/Git/ife/test.html",
+				"/E/Git/ife/task04.html",
+				"/E/Git/ife/task01.html",
+				"/E/Git/ife/task03.html",
+				"/E/Git/ife/css/task03-1.css",
+				"/E/Git/ife/img/task02.png",
+				"/E/web/test2.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/用户目录/我的文档/GitHub/Baidu_ife/task02/task2.css",
+				"/E/Git/add hello",
+				"/E/web/mapmatching.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"md",
+					"4",
+					"\"></",
+					"wrapper",
+					"六栏",
+					"两栏",
+					"一栏",
+					"三栏",
+					"六栏",
+					"三栏",
+					"四栏",
+					"font-size",
+					"size",
+					"\";\n",
+					"p",
+					"span",
+					"sapn",
+					"display",
+					"oblique",
+					"vertical",
+					"500px",
+					"450",
+					"sidebar",
+					"7",
+					"sidebar",
+					"main",
+					"qr",
+					"sidebar",
+					"mail",
+					"vertical",
+					"span",
+					"><span",
+					"div",
+					"span",
+					"5a5b5b",
+					"24254C",
+					"4px",
+					"parttwo",
+					"partone",
+					"contentone",
+					"span",
+					"right",
+					"left",
+					"d2994f",
+					"p",
+					"span",
+					"br",
+					"    \n",
+					"165D16",
+					"span",
+					"margin",
+					"png",
+					"p",
+					"P",
+					"div",
+					"200px",
+					"3",
+					"2",
+					"1",
+					"2012年，凭借爱情片《爱LOVE》获得第49届台湾电影金马奖最佳女配角提名。2014年，她又凭借现代片《军中乐园》获得第51届台湾电影金马奖最佳女配角提名。2015年，其主演的穿越片《新步步惊心》在全国上映。2016年，陈意涵相继主演了爱情喜剧《火柴小姐和美味先生》；悬疑片《我说的都是真的》。",
+					"describe",
+					"photoName",
+					"\"\"",
+					"=\"\"",
+					"1",
+					"http://imgcache.cjmx.com/star/201608/20160802190500292.jpg",
+					"imgcache",
+					"lable",
+					"class",
+					"class=\"personal\"",
+					"class",
+					"style",
+					"好看的图片",
+					"figure",
+					"></",
+					"figure",
+					"<figcaption>",
+					"figcaption",
+					"            \n",
+					"CBBBBB",
+					"header",
+					"35A9B7",
+					"c",
+					"nav",
+					"ul",
+					"nav",
+					"banner",
+					"header",
+					"F0F0F0",
+					"right",
+					"\n    ",
+					"？",
+					"【任务4】",
+					"【任务3】",
+					"【任务2】",
+					"div",
+					"【任务2】width",
+					"div",
+					"<style type=\"text/css\">\n",
+					"style",
+					"meta"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\nhid"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 162.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1004.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"char",
+						"charAt\tDefault"
+					],
+					[
+						"vo",
+						"vowels\tDefault"
+					],
+					[
+						"rev",
+						"reverseString\tDefault"
+					],
+					[
+						"re",
+						"reverseString"
+					],
+					[
+						"city",
+						"cityaqi\tDefault"
+					],
+					[
+						"getE",
+						"getElementsByTagName()"
+					],
+					[
+						"le",
+						"leng\tDefault"
+					],
+					[
+						"aq",
+						"aqi-list"
+					],
+					[
+						"crea",
+						"createElement()\tDocument"
+					],
+					[
+						"val",
+						"value1\tDefault"
+					],
+					[
+						"va",
+						"value2\tDefault"
+					],
+					[
+						"aqi",
+						"aqiData\tDefault"
+					],
+					[
+						"isN",
+						"isNaN()"
+					],
+					[
+						"fu",
+						"fun\tFunction"
+					],
+					[
+						"get",
+						"get"
+					],
+					[
+						"back",
+						"backgroundColor〔variable〕"
+					],
+					[
+						"bc",
+						"borderColor〔variable〕"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"font",
+						"font"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"tet",
+						"text-align"
+					],
+					[
+						"fons",
+						"font-style"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"txta",
+						"text-align"
+					],
+					[
+						"borr",
+						"border-right"
+					],
+					[
+						"aft",
+						"after"
+					],
+					[
+						"f",
+						"front"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"cl",
+						"clearfix"
+					],
+					[
+						"ind",
+						"text-indent"
+					],
+					[
+						"part",
+						"partone"
+					],
+					[
+						"S",
+						"SimSun"
+					],
+					[
+						"inle",
+						"inline-block"
+					],
+					[
+						"o",
+						"opacity"
+					],
+					[
+						"clo",
+						"color"
+					],
+					[
+						"fontsy",
+						"font-style"
+					],
+					[
+						"txt",
+						"text-decoration"
+					],
+					[
+						"b",
+						"inline-block"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"tas",
+						"task06-2"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"marr",
+						"margin-right"
+					],
+					[
+						"bore",
+						"border"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"c",
+						"color"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"lists",
+						"list-style-type"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"mag",
+						"margin-left"
+					],
+					[
+						"bacl",
+						"background-color"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"WID",
+						"width"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"pos",
+						"position"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Git/ife/task15.html",
+					"settings":
+					{
+						"buffer_size": 1427,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Git/leetcode/345_Reverse_Vowels.js",
+					"settings":
+					{
+						"buffer_size": 561,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Git/Resume/Resume.md",
+					"settings":
+					{
+						"buffer_size": 1162,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Git/Resume/Resume.html",
+					"settings":
+					{
+						"buffer_size": 27810,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/Git/leetcode/getBytes.js",
+					"settings":
+					{
+						"buffer_size": 177,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Git/ife/task01.html",
+					"settings":
+					{
+						"buffer_size": 7771,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Git/ife/task14.html",
+					"settings":
+					{
+						"buffer_size": 1211,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "var test = {  \n_Name : \"Lilei\",  \n_Age : 20,  \n  \n//_Name的只读  \n  \nget name() {return this._Name;},  \n//_Age的读写  \nset age(age) {this._Age = age;},   \nget age() {return this._Age;}  \n};",
+					"file": "/E/Git/ife/test.js",
+					"file_size": 0,
+					"file_write_time": 131292052333660255,
+					"settings":
+					{
+						"buffer_size": 183,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "mad",
+				"selected_items":
+				[
+					[
+						"mad",
+						"Markdown Preview: Save to HTML"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"javsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"PC",
+						"Package Control: Install Package"
+					],
+					[
+						"PCI",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pc",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git remo",
+						"Git: Track Remote Branch"
+					],
+					[
+						"git lo",
+						"Git: Log All"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git rem",
+						"Git: Track Remote Branch"
+					],
+					[
+						"gitc",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Log All"
+					],
+					[
+						"gits",
+						"Git: Stash List"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/Git",
+				"/E/Git/ife"
+			],
+			"file_history":
+			[
+				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.643/markdown-resume-master/examples/source/zhsample.md",
+				"/E/Git/leetcode/344_reverseString.js",
+				"/E/Git/leetcode/345_Reverse_Vowels.py",
+				"/E/Git/leetcode/345_Reverse_Vowels.js",
+				"/E/Git/leetcode/344_reverseString.py",
+				"/E/Git/leetcode/344-reverseString.js",
+				"/E/Git/ife/task14.html",
+				"/E/Git/ife/task13.html",
+				"/E/Git/ife/css/task06.css",
+				"/E/Git/ife/css/task08.css",
+				"/E/Git/ife/task08.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Git/ife/README.md",
+				"/E/Git/Resume/Resume.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/E/Git/ife/task06.html",
+				"/E/Git/Resume/dist/css/print.min.css",
+				"/E/Git/Resume/print.html",
+				"/E/Git/ife/css/task05.css",
+				"/E/Git/ife/task02.html",
+				"/E/Git/ife/css/task02.css",
+				"/E/Git/ife/css/task03.css",
+				"/E/Git/ife/css/task04.css",
+				"/E/Git/ife/css/normalize.css",
+				"/E/Git/ife/css/task07.css",
+				"/E/Git/ife/task05.html",
+				"/E/Git/ife/test.html",
+				"/E/Git/ife/task04.html",
+				"/E/Git/ife/task01.html",
+				"/E/Git/ife/task03.html",
+				"/E/Git/ife/css/task03-1.css",
+				"/E/Git/ife/img/task02.png",
+				"/E/web/test2.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/用户目录/我的文档/GitHub/Baidu_ife/task02/task2.css",
+				"/E/Git/add hello",
+				"/E/web/mapmatching.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"charAt",
+					"aqi-list",
+					"$",
+					"$(\"",
+					"s",
+					"md",
+					"4",
+					"\"></",
+					"wrapper",
+					"六栏",
+					"两栏",
+					"一栏",
+					"三栏",
+					"六栏",
+					"三栏",
+					"四栏",
+					"font-size",
+					"size",
+					"\";\n",
+					"p",
+					"span",
+					"sapn",
+					"display",
+					"oblique",
+					"vertical",
+					"500px",
+					"450",
+					"sidebar",
+					"7",
+					"sidebar",
+					"main",
+					"qr",
+					"sidebar",
+					"mail",
+					"vertical",
+					"span",
+					"><span",
+					"div",
+					"span",
+					"5a5b5b",
+					"24254C",
+					"4px",
+					"parttwo",
+					"partone",
+					"contentone",
+					"span",
+					"right",
+					"left",
+					"d2994f",
+					"p",
+					"span",
+					"br",
+					"    \n",
+					"165D16",
+					"span",
+					"margin",
+					"png",
+					"p",
+					"P",
+					"div",
+					"200px",
+					"3",
+					"2",
+					"1",
+					"2012年，凭借爱情片《爱LOVE》获得第49届台湾电影金马奖最佳女配角提名。2014年，她又凭借现代片《军中乐园》获得第51届台湾电影金马奖最佳女配角提名。2015年，其主演的穿越片《新步步惊心》在全国上映。2016年，陈意涵相继主演了爱情喜剧《火柴小姐和美味先生》；悬疑片《我说的都是真的》。",
+					"describe",
+					"photoName",
+					"\"\"",
+					"=\"\"",
+					"1",
+					"http://imgcache.cjmx.com/star/201608/20160802190500292.jpg",
+					"imgcache",
+					"lable",
+					"class",
+					"class=\"personal\"",
+					"class",
+					"style",
+					"好看的图片",
+					"figure",
+					"></",
+					"figure",
+					"<figcaption>",
+					"figcaption",
+					"            \n",
+					"CBBBBB",
+					"header",
+					"35A9B7",
+					"c",
+					"nav",
+					"ul",
+					"nav",
+					"banner",
+					"header",
+					"F0F0F0",
+					"right",
+					"\n    ",
+					"？",
+					"【任务4】",
+					"【任务3】",
+					"【任务2】",
+					"div",
+					"【任务2】width",
+					"div",
+					"<style type=\"text/css\">\n",
+					"style",
+					"meta"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\nhid"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\Git"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/Git/ife/task15.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1427,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1002,
+										1002
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 81.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/Git/leetcode/345_Reverse_Vowels.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 561,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										519,
+										519
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/Git/Resume/Resume.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1162,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										86,
+										86
+									]
+								],
+								"settings":
+								{
+									"parser": "markdown",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"target": "save"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/Git/Resume/Resume.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27810,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25694,
+										25694
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 11139.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/Git/leetcode/getBytes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 177,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32,
+										0
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/Git/ife/task01.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7771,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1148,
+										1148
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 127.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/Git/ife/task14.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/Git/ife/test.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										183,
+										183
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,728,5,27,1025",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 162.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 28,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

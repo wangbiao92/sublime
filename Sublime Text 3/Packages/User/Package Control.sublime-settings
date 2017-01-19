@@ -12,6 +12,8 @@
 		"JsFormat",
 		"Markdown Preview",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
 	]
 }
